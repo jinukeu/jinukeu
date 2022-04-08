@@ -6,7 +6,6 @@ Hi! I'm a student interested in Android :)
 
 ### BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos1070)](https://solved.ac/pos1070)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pos1070&theme=warm)
 
 ### GitHub
 ![Koownij's GitHub stats](https://github-readme-stats.vercel.app/api?username=koownij&show_icons=true&theme=vue)
