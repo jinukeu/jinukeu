@@ -11,7 +11,7 @@ Hi! I'm a student interested in Android :)
 ![Koownij's GitHub stats](https://github-readme-stats.vercel.app/api?username=koownij&show_icons=true&theme=vue)
 
 ### Contact
-<a href="https://ku-hug.tistory.com/" target="_blank">
+<a href="https://koownij.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 <a href="mailto:koownij@kakao.com">
