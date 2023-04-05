@@ -37,7 +37,7 @@
 <br>
 
 ### 📗 BLOG
-<a href="https://koownij.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitPages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://jinukeu.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitPages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 
 <br>
 
